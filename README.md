@@ -9,7 +9,7 @@ I'm passionate about solving challenging problems that others find difficult or 
 
 ### Full-stack | Blockchain (Ethereum | Solana | Cosmos | Near | Aptos | Concordium) 
 
-  #### Ethereum ( Solidity/Web3/React Developer )
+  #### Ethereum ( Solidity/Web3 Developer )
   * ERC20, Upgradable Contract, Staking, Presale,
   * Uniswap & Pancakeswap & Sushiswap Fork,
   * Olympus DAO & Titano & Drip fork,
@@ -24,12 +24,18 @@ I'm passionate about solving challenging problems that others find difficult or 
   * Candy machine and Metaplex
   * Experience in Serum's on-chain OrderBook.  
   
-  #### Cosmos
+  #### Cosmos ( Cosmos SDK/Cosmwasm Developer)
+  * Application-specific network development by Cosmos SDK
   * Wasmswap, CW20/CW721, Airdrop, Staking Contract
   * Experience in CosmJS and integration to FE
+  
+  #### Near | Aptos | Concordium ( Rust/Move Developer)
+  * Token development
+  * Airdrop, Staking, NFT minting, staking, marketplace Contract
+  * Experience in web3 integration to FE
 
   #### Full-stack
-  * Backend service by Go/Rust/Nodejs
+  * Backend service by Go/Rust/Nodejs/Python
   * Website development by MERN/MEAN/MEVN stack.
   * Flexible Database Management (SQL/NoSQL)
   * Development of browser extension like crypto wallet
@@ -38,9 +44,9 @@ I'm passionate about solving challenging problems that others find difficult or 
 ### Experience 
   * Solidity, Rust, Go, Move, Hardhat, Truffle, Remix
   * Openzeppelin, Anchor, Cosmwasm, Web3, CosmJS
-  * React | Vue | Angular | Node JS,
+  * React | Vue | Next | Node JS,
   * HTML5, CSS3, ES5/6/7, SQL/NoSQL,
-  * C, C++, C#,
+  * C, C++, C#, Python
   * Unity
 ####
 
