@@ -7,7 +7,7 @@ I'm passionate about solving challenging problems that others find difficult or 
 
 ## What I can do:
 
-### Full-stack | Blockchain (Ethereum | Solana | Cosmos | Near | Aptos | Concordium) 
+### Full-stack | Blockchain (Ethereum | Solana | Cosmos | Near | Concordium | Aptos | Sui) 
 
   #### Ethereum ( Solidity/Web3 Developer )
   * ERC20, Upgradable Contract, Staking, Presale,
@@ -29,9 +29,13 @@ I'm passionate about solving challenging problems that others find difficult or 
   * Wasmswap, CW20/CW721, Airdrop, Staking Contract
   * Experience in CosmJS and integration to FE
   
-  #### Near | Aptos | Concordium ( Rust/Move Developer)
+  #### Near | Concordium ( Rust Developer)
   * Token development
   * Airdrop, Staking, NFT minting, staking, marketplace Contract
+  * Experience in web3 integration to FE
+  
+  #### Aptos | Sui ( Move Developer)
+  * Smart contract development
   * Experience in web3 integration to FE
 
   #### Full-stack
