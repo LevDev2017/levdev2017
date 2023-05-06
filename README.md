@@ -1,7 +1,5 @@
 <h2 font-weight="bold">Crypto Age</h2>
 
-#### Contact Info: https://t.me/@levdev2017
-
 *I really love my work and that passion is reflected in the quality of my code.
 I'm passionate about solving challenging problems that others find difficult or impossible.*
 
