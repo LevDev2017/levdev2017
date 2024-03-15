@@ -5,8 +5,13 @@ I'm passionate about solving challenging problems that others find difficult or 
 
 ## What I can do:
 
-### Full-stack | Blockchain (Ethereum | Solana | Cosmos | Cardano | Aptos | Sui | Near | Concordium) 
+### Full-stack | Blockchain (Bitcoin | Ethereum | Solana | Cosmos | Cardano | Aptos | Sui | Near | Concordium) 
 
+  #### Bitcoin ordinals inscription ( Ordinals Developer )
+  * Ordinals nft minting
+  * Ordinals nft marketplace
+  * BRC-20 token launch & marketplace
+  
   #### Ethereum ( Solidity/Web3 Developer )
   * ERC20, Upgradable Contract, Staking, Presale,
   * Uniswap & Pancakeswap & Sushiswap Fork,
