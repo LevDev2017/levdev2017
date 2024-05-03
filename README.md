@@ -5,7 +5,7 @@ I'm passionate about solving challenging problems that others find difficult or 
 
 ## What I can do:
 
-### Full-stack | Blockchain (Bitcoin | Ethereum | Solana | Cosmos | Cardano | Aptos | Sui | Near | Concordium) 
+### Full-stack | Blockchain (Bitcoin | Ethereum | Solana | Cosmos | TON | Aptos | Sui | Cardano | Near) 
 
   #### Bitcoin ordinals inscription ( Ordinals Developer )
   * Ordinals nft minting
@@ -22,7 +22,7 @@ I'm passionate about solving challenging problems that others find difficult or 
   * Creation custom Dapps what customer wants
 
   #### Solana ( RUST/Anchor Developer )
-  * SPL-token, 
+  * SPL-token, meme coin
   * Custom solana program by Anchor/Rust
   * Candy machine and Metaplex
   * Experience in Serum's on-chain OrderBook.  
@@ -32,14 +32,19 @@ I'm passionate about solving challenging problems that others find difficult or 
   * Wasmswap, CW20/CW721, Airdrop, Staking Contract
   * Experience in CosmJS and integration to FE
 
+  #### TON chain ( FunC/Tact Developer )
+  * Jetton token launch
+  * Smart contract by FunC or Tact
+  * DApp development using ton web3
+
+  #### Aptos | Sui ( Move Developer )
+  * Smart contract development
+  * Experience in web3 integration to FE
+
   #### Cardano ( Plutus/Aiken Developer )
   * Smart contract development
   * Web3 integration to FE using Lucid
     
-  #### Aptos | Sui ( Move Developer )
-  * Smart contract development
-  * Experience in web3 integration to FE
-  
   #### Near | Concordium ( Rust Developer )
   * Token development
   * Airdrop, Staking, NFT minting, staking, marketplace Contract
