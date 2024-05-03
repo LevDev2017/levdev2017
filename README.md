@@ -8,9 +8,9 @@ I'm passionate about solving challenging problems that others find difficult or 
 ### Full-stack | Blockchain (Bitcoin | Ethereum | Solana | Cosmos | TON | Aptos | Sui | Cardano | Near) 
 
   #### Bitcoin ordinals inscription ( Ordinals Developer )
-  * Ordinals nft minting
-  * Ordinals nft marketplace
+  * Ordinals nft minting and nft marketplace
   * BRC-20 token launch & marketplace
+  * Rune token launch
   
   #### Ethereum ( Solidity/Web3 Developer )
   * ERC20, Upgradable Contract, Staking, Presale,
